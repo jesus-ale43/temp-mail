@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="TempMail Logo" src="https://cdn.discordapp.com/attachments/793518760643526696/1126256780079542304/HxRbHqn6OgZbAAAAAElFTkSuQmCC.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="TempMail Logo" src="https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/tempmail_logo.png">
 
 # TempMail
 A simple Discord bot that generates you a temporary email address :)
