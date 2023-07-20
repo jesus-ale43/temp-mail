@@ -24,3 +24,11 @@ The "/inbox" command allows users to access the inbox of their temporary email a
 
 * ``/message <message>``:
 With the "/message" command, users can select a specific message from their inbox and read its complete content. The bot displays the sender, subject, and content of the selected message, also providing functions for exporting it in image or text formats.
+
+## Screenshots
+![screenshot-1](https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/screenshots/screenshot-1.png)
+![screenshot-2](https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/screenshots/screenshot-2.png)
+![screenshot-3](https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/screenshots/screenshot-3.png)
+![screenshot-4](https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/screenshots/screenshot-4.png)
+![screenshot-5](https://raw.githubusercontent.com/jesus-ale43/temp-mail/master/assets/screenshots/screenshot-5.png)
+
