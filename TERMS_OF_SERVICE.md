@@ -1,6 +1,6 @@
-# Terms and Conditions - TempMail Discord Bot
+# TERMS OF SERVICE - TempMail Discord Bot
 
-These Terms and Conditions ("Terms") govern your use of the TempMail bot on the Discord service. By using the TempMail bot, you agree to comply with these Terms in full. If you disagree with any of the terms below, do not use the bot.
+These Terms of Service ("Terms") govern your use of the TempMail bot on the Discord service. By using the TempMail bot, you agree to comply with these Terms in full. If you disagree with any of the terms below, do not use the bot.
 
 ## 1. Bot Usage
 
@@ -16,7 +16,7 @@ You are prohibited from using the TempMail bot for illegal or inappropriate purp
 
 ## 4. Privacy
 
-The TempMail bot does store the generated email addresses temporarily for the purpose of managing and delivering messages. However, it does not store the content of received messages. Please be aware that the temporary email service used to generate the email addresses may have its own privacy policies.
+The TempMail bot temporarily stores the generated email addresses for the sole purpose of providing users with access to the data provided by a third-party service, 1secMail.com. The bot does not store the content of received messages. The bot creator respects your privacy and will not share or sell any personal information.
 
 ## 5. Modifications
 
@@ -25,7 +25,3 @@ The bot creator reserves the right to modify or discontinue the TempMail bot at 
 ## 6. Support
 
 Support for the TempMail bot is provided through the Discord support server or by contacting the bot creator via email: jesusmolinarodrigue26@gmail.com.
-
-## 7. Contact
-
-If you have any questions or concerns regarding these Terms or the use of the TempMail bot, you can contact the bot creator via email:jesusmolinarodrigue26@gmail.com.
