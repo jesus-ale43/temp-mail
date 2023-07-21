@@ -4,7 +4,7 @@ This Privacy Policy describes how the TempMail Discord bot ("the bot") collects,
 
 ## Information Collection and Use
 
-The TempMail bot generates and manages temporary email addresses for use in online services and other temporary purposes. When you use the bot, it temporarily stores your Discord user id and the generated email addresses for the sole purpose of providing you with access to the data provided by a third-party service, 1secMail.com. The bot does not store the content of received messages.
+The TempMail bot generates and manages temporary email addresses for use in online services and other temporary purposes. When you use the bot, it temporarily stores your Discord user ID and the generated email addresses for the sole purpose of providing you with access to the data provided by a third-party service, 1secMail.com. The bot does not store the content of received messages.
 
 ## Third-Party Services
 
@@ -24,4 +24,4 @@ The bot creator may update this Privacy Policy from time to time. Any changes wi
 
 ## Contact
 
-If you have any questions or concerns regarding this Privacy Policy, you can contact the bot creator via email: your.email@example.com.
+If you have any questions or concerns regarding this Privacy Policy, you can contact the bot creator via email: jesusmolinarodrigue26@gmail.com.
